@@ -1,4 +1,5 @@
 # Pbs
+A Phoenix web application styled with Bootstrap and Sass
 
 To start your Phoenix app:
 
